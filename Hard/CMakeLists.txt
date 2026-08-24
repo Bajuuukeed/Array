@@ -3,4 +3,8 @@ project(Hard)
 
 set(CMAKE_CXX_STANDARD 20)
 
-add_executable(Hard cresc.cpp)
+add_executable(Hard cresc.cpp
+        Arhitectura2.cpp
+        Divizori4.cpp
+        pluton.cpp
+        poza1.cpp)
