@@ -13,4 +13,7 @@ add_executable(Easy Paritate1.cpp
         NumararePIE.cpp
         NumarareDiv.cpp
         ElemPP.cpp
-        Sume.cpp)
+        Sume.cpp
+        DivFactorial.cpp
+        Pozitie.cpp
+        PozitieX.cpp)
