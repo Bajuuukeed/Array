@@ -20,4 +20,17 @@ add_executable(Easy Paritate1.cpp
         Stergere_Element.cpp
         ElimRep.cpp
         inserare.cpp
-        aceeasi_paritate.cpp)
+        aceeasi_paritate.cpp
+        Ordonare.cpp
+        SortPrime.cpp
+        Sort10.cpp
+        Arhitectura.cpp
+        KSort.cpp
+        SortMax.cpp
+        Sortare.cpp
+        SortCif.cpp
+        alfa.cpp
+        SortCif2.cpp
+        Sort2.cpp
+        PareSort.cpp
+        numere16.cpp)
