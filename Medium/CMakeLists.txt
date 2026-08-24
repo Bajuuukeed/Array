@@ -3,4 +3,10 @@ project(Medium)
 
 set(CMAKE_CXX_STANDARD 20)
 
-add_executable(Medium Unice1.cpp)
+add_executable(Medium Unice1.cpp
+        gama.cpp
+        nthodd.cpp
+        ntheven.cpp
+        SumaXL.cpp
+        Triunghiuri.cpp
+        UEMM.cpp)
