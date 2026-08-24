@@ -16,4 +16,8 @@ add_executable(Easy Paritate1.cpp
         Sume.cpp
         DivFactorial.cpp
         Pozitie.cpp
-        PozitieX.cpp)
+        PozitieX.cpp
+        Stergere_Element.cpp
+        ElimRep.cpp
+        inserare.cpp
+        aceeasi_paritate.cpp)
