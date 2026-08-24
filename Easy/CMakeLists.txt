@@ -11,4 +11,6 @@ add_executable(Easy Paritate1.cpp
         Numarare6.cpp
         pv.cpp
         NumararePIE.cpp
-        NumarareDiv.cpp)
+        NumarareDiv.cpp
+        ElemPP.cpp
+        Sume.cpp)
