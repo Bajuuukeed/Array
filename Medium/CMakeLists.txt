@@ -9,4 +9,13 @@ add_executable(Medium Unice1.cpp
         ntheven.cpp
         SumaXL.cpp
         Triunghiuri.cpp
-        UEMM.cpp)
+        UEMM.cpp
+        stergere.cpp
+        stergere1.cpp
+        inserare3.cpp
+        stergere2.cpp
+        inserareDupa.cpp
+        inserareInainte.cpp
+        aceeasi_paritate_2.cpp
+        PermCirc.cpp
+        Numere2.cpp)
