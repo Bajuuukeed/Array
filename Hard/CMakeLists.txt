@@ -7,4 +7,10 @@ add_executable(Hard cresc.cpp
         Arhitectura2.cpp
         Divizori4.cpp
         pluton.cpp
-        poza1.cpp)
+        poza1.cpp
+        nextprob.cpp
+        puzzle1.cpp
+        Mario1.cpp
+        BossFight.cpp
+        " Fata Morgana.cpp"
+        gard2.cpp)

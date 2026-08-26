@@ -7,7 +7,11 @@
     <option name="/Default/Housekeeping/FeatureSuggestion/FeatureSuggestionManager/DisabledSuggesters/=SwitchToGoToActionSuggester/@EntryIndexedValue" value="true" type="bool" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7be98771-ed2a-4b44-9de3-88cc5e28c41e" name="Changes" comment="" />
+    <list default="true" id="7be98771-ed2a-4b44-9de3-88cc5e28c41e" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/Hard/nextprob.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Hard/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Hard/CMakeLists.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Hard/poza1.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/Hard/poza1.cpp" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -16,15 +20,39 @@
   <component name="ClangdSettings">
     <option name="formatViaClangd" value="false" />
   </component>
+  <component name="EmbeddingIndexingInfo">
+    <option name="cachedIndexableFilesCount" value="215" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "Bajuuukeed"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/Bajuuukeed/Array.git",
+    "accountId": "2a233969-e184-4392-86e7-10d2683fb250"
+  }
+}]]></component>
+  <component name="MacroExpansionManager">
+    <option name="directoryName" value="rmUnzDnh" />
+  </component>
   <component name="McpProjectServerCommands">
     <commands />
     <urls />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "customColor": "",
-  "associatedIndex": 4
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;customColor&quot;: &quot;&quot;,
+  &quot;associatedIndex&quot;: 4
+}</component>
   <component name="ProjectId" id="3ILqecSHQukC7kv1ZxEgwH4wfiX" />
+  <component name="ProjectStatusUIService"><![CDATA[{
+  "uiKindId": "Widget"
+}]]></component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -36,14 +64,25 @@
     "RunOnceActivity.RadMigrateCodeStyle": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.cidr.known.project.marker": "true",
+    "RunOnceActivity.git.unshallow": "true",
     "RunOnceActivity.readMode.enableVisualFormatting": "true",
     "RunOnceActivity.typescript.service.memoryLimit.init": "true",
     "cf.first.check.clang-format": "false",
     "cidr.known.project.marker": "true",
+    "git-widget-placeholder": "master",
+    "last_opened_file_path": "C:/Users/Cata/Documents/InformaticaFacultate/ForGitHub/Array",
     "org.rust.first.attach.projects": "true",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
+  <component name="RunManager">
+    <configuration name="puzzle1.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" nameIsGenerated="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Array" TARGET_NAME="puzzle1.cpp" CONFIG_NAME="puzzle1.cpp">
+      <option name="sourceFile" value="C:\Users\Cata\Documents\InformaticaFacultate\ForGitHub\Array\Hard\puzzle1.cpp" />
+      <method v="2">
+        <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+  </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
       <changelist id="7be98771-ed2a-4b44-9de3-88cc5e28c41e" name="Changes" comment="" />
@@ -52,6 +91,7 @@
       <option name="presentableId" value="Default" />
       <updated>1787554310140</updated>
       <workItem from="1787554317798" duration="30000" />
+      <workItem from="1787781955661" duration="160000" />
     </task>
     <servers />
   </component>
